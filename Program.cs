@@ -11,6 +11,7 @@ namespace Homework_1
         static void Main(string[] args)
         {
             Console.WriteLine("Hello!");
+            Console.ReadKey();
         }
     }
 }
